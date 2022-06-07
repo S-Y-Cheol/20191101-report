@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/20191101-report.git/static/css/main.daf66792.css",
+    "main.js": "/20191101-report.git/static/js/main.7672d0f6.js",
+    "index.html": "/20191101-report.git/index.html",
+    "main.daf66792.css.map": "/20191101-report.git/static/css/main.daf66792.css.map",
+    "main.7672d0f6.js.map": "/20191101-report.git/static/js/main.7672d0f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf66792.css",
+    "static/js/main.7672d0f6.js"
+  ]
+}
